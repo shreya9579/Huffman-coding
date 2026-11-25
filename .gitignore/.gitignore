@@ -1,5 +1,0 @@
-# Build products and generated test artifacts
-*.exe
-*.huf
-*.restored
-*.bin
